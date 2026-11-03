@@ -1,0 +1,6 @@
+{
+  "name": "ROZANA – Daily Streak Tracker",
+  "description": "Daily streak tracker and habit builder with rich analytics, habit management, calendar view, and motivational quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
